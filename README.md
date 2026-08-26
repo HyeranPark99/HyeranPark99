@@ -2,9 +2,8 @@
 
 ## Hello, I'm Hyeran Park! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔥 Passionate Learner
-- I'm currently enrolled in Brookyln College 
-- 2022 TTP-Residency-Cohort member
+
+
 
 
 ## 🛠️Technologies & Tools
